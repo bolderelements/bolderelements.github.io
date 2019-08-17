@@ -1,21 +1,36 @@
 {
 	"name": "Table Rate Shipping for WooCommerce",
 	"slug": "woocommerce-table-rate-shipping",
-	"version": "4.1.3",
+	"version": "4.2",
 	"author": "<a href=\"https://bolderelements.net/\">Bolder Elements</a>",
 	"author_profile": "http://bolderelements.net/plugins/table-rate-shipping-woocommerce/",
-	"requires": "4.6",
-	"tested": "4.9.8",
+	"requires": "4.8",
+	"tested": "5.2",
 	"compatibility": {},
-	"rating": 94,
-	"num_ratings": "657",
+	"rating": "94",
+	"num_ratings": "686",
 	"ratings": {},
-	"downloaded": 16,200,
-	"last_updated": "2018-04-04",
+	"downloaded": "17,300",
+	"last_updated": "2019-08-18",
 	"added": "",
 	"homepage": "http://bolderelements.net/plugins/table-rate-shipping-woocommerce/",
 	"sections": {
-		"changelog": "4.1.3 - 2018-04-04
+		"changelog": "4.2 - 2019-08-17
+	- Added: Ability to skip weight comparison in volumetric weight calculations
+	- Added: Option to combine shipping descriptions instead of overriding (Per Item & Per Class calculations)
+	- Added: New Condition to select Dokan Vendors (when using the multivendor plugin)
+	- Added: Buttons that Expand/Collapse all settings sections
+	- Added: WPML title translation by ID or Title
+	- Fixed: Product fields not saving after removing row from table
+	- Fixed: Time condition not taking timezone settings into account
+	- Fixed: Change Surface Area from Height x Width to Length x Width for better compatibility with other plugins
+	- Fixed: Comparison error with float numbers and equal to operator
+	- Fixed: Shipping class data issue in Per Item & Per Line Item setups
+	- Enhanced: Changed exporter feature to be more compatible across servers and languages
+	- Developer: Added filters to calculated cart data
+	- Developer: Moved conditional variables and functions to a more accessible class
+
+4.1.3 - 2018-04-04
 	- Fixed: Compatibility issue with other plugins adding shipping meta data
 	- Fixed: Subtotal condition not rounding for prices inclusive of tax
 	- Fixed: Improper rounding in Subtotal condition for comma decimal separators
