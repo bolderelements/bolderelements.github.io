@@ -1,0 +1,24 @@
+{
+	"name": "Shipping Cost Limitations for BETRS",
+	"slug": "woocommerce-shipping-price-limits",
+	"version": "1.0",
+	"author": "<a href=\"https://bolderelements.net/\">Bolder Elements</a>",
+	"author_profile": "http://bolderelements.net/plugins/table-rate-shipping-woocommerce/",
+	"requires": "4.8",
+	"tested": "5.2.9",
+	"requires_php": "5.6",
+	"compatibility": {},
+	"last_updated": "2019-08-22 14:00 GMT",
+	"added": "",
+	"homepage": "http://bolderelements.net/plugins/table-rate-shipping-woocommerce/",
+	"sections": {
+		"changelog": "<h4>1.0 - 2019-08-24<\/h4><ul><li>Initial Release<\/li><\/ul>"
+	},
+	"short_description": "Set a minimum or maximum price to be returned by a single table in the Table Rate Shipping for WooCommerce plugin.",
+	"tags": {},
+	"donate_link": "",
+	"banners": {
+		"low": "https://bolderelements.github.io/betrs-price-limits/banner-772x250.jpg",
+		"high": "https://bolderelements.github.io/betrs-price-limits/banner-1544x500.jpg"
+	}
+}
