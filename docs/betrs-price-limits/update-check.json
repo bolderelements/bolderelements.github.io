@@ -17,6 +17,7 @@
 	"short_description": "Set a minimum or maximum price to be returned by a single table in the Table Rate Shipping for WooCommerce plugin.",
 	"tags": {},
 	"donate_link": "",
+	"download_link": "https://bolderelements.github.io/docs/betrs-price-limits/woocommerce-shipping-price-limits.zip",
 	"banners": {
 		"low": "https://bolderelements.github.io/betrs-price-limits/banner-772x250.jpg",
 		"high": "https://bolderelements.github.io/betrs-price-limits/banner-1544x500.jpg"
