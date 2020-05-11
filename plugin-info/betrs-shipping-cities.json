@@ -1,0 +1,23 @@
+{
+	"name": "Shipping by City for BETRS",
+	"slug": "woocommerce-shipping-cities",
+	"version": "1.0",
+	"author": "<a href=\"https://bolderelements.net/\">Bolder Elements</a>",
+	"author_profile": "http://bolderelements.net/about/",
+	"requires": "4.8",
+	"tested": "5.4",
+	"requires_php": "5.6",
+	"compatibility": {},
+	"last_updated": "2020-05-11 16:00 GMT",
+	"added": "",
+	"homepage": "https://bolderelements.net/plugins/shipping-city-table-rates/",
+	"sections": {
+		"changelog": "<h4>1.1.1 - 2020-05-11<\/h4><ul><li>Added automatic dashboard updates<\/li><\/ul><h4>1.1 - 2018-07-24<\/h4><ul><li>Added ability to exclude listed cities<\/li><li>Added ability to ignore other Table Rate methods once match is made<\/li><\/ul><h4>1.0 - 2017-09-25<\/h4><ul><li>Initial Release<\/li><\/ul>"
+	},
+	"short_description": "Restrict Table Rate methods to particular cities by name in the Table Rate Shipping for WooCommerce plugin.",
+	"tags": {},
+	"donate_link": "",
+	"download_link": "https://github.com/bolderelements/betrs-shipping-cities/archive/master.zip",
+	"banners": {
+	}
+}
