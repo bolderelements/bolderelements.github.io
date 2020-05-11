@@ -1,7 +1,7 @@
 {
 	"name": "Shipping by City for BETRS",
 	"slug": "woocommerce-shipping-cities",
-	"version": "1.0",
+	"version": "1.1.1",
 	"author": "<a href=\"https://bolderelements.net/\">Bolder Elements</a>",
 	"author_profile": "http://bolderelements.net/about/",
 	"requires": "4.8",
