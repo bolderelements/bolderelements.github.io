@@ -1,0 +1,23 @@
+{
+	"name": "Extra Fee for BETRS",
+	"slug": "betrs-extra-fee",
+	"version": "1.0",
+	"author": "<a href=\"https://bolderelements.net/\">Bolder Elements<\/a>",
+	"author_profile": "http://bolderelements.net/about/",
+	"requires": "4.8",
+	"tested": "5.4",
+	"requires_php": "5.6",
+	"compatibility": {},
+	"last_updated": "2020-06-26 17:20 GMT",
+	"added": "",
+	"homepage": "https://bolderelements.net/plugins/extra-fee-betrs/",
+	"sections": {
+		"changelog": "<h4>1.0 - 2020-06-26<\/h4><ul><li>Initial Release<\/li><\/ul>"
+	},
+	"short_description": "Add an additional flat rate or percentage fee based on the calculated value from one of your tables",
+	"tags": {},
+	"donate_link": "",
+	"download_link": "https://github.com/bolderelements/betrs-extra-fee/archive/master.zip",
+	"banners": {
+	}
+}
