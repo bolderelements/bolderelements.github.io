@@ -1,7 +1,7 @@
 {
 	"name": "Table Rate Shipping for WooCommerce",
 	"slug": "woocommerce-table-rate-shipping",
-	"version": "4.2",
+	"version": "4.3.2",
 	"author": "<a href=\"https://bolderelements.net/\">Bolder Elements</a>",
 	"author_profile": "http://bolderelements.net/plugins/table-rate-shipping-woocommerce/",
 	"requires": "4.8",
